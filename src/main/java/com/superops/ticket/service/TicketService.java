@@ -6,6 +6,7 @@ import com.superops.ticket.repository.TicketRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDateTime;
 import java.util.List;
 import java.util.UUID;
 
@@ -21,6 +22,7 @@ public class TicketService {
         ticket.setName(form.getName());
         ticket.setSubject(form.getSubject());
         ticket.setBody(form.getBody());
+        ticket.setCreatedAt(LocalDateTime.now().toString());
         ticketRepo.save(ticket);
     }
 
