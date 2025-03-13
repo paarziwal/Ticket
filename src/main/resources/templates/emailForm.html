@@ -11,11 +11,11 @@
     <h2>Email Form</h2>
     <form th:action="@{/send-email}" th:object="${email}" method="post">
         <div class="mb-3">
-            <label for="subject" class="form-label">Subject:</label>
+            <label for="subject" class="form-label">Subject</label>
             <input type="text" id="subject" name="subject" class="form-control" required>
         </div>
         <div class="mb-3">
-            <label for="body" class="form-label">Body:</label>
+            <label for="body" class="form-label">Body</label>
             <textarea id="body" name="body" class="form-control" rows="5" required></textarea>
         </div>
         <button type="submit" class="btn btn-primary">Send Email</button>
