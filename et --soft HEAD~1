@@ -1,0 +1,47 @@
+[33mcommit 4203558d9271361139540429ff2be8bbf02b75ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: prajwal <prajwal.pandi@superops.com>
+Date:   Thu Mar 13 14:22:31 2025 +0530
+
+    second commit
+
+[33mcommit 34d424ee41f0a9b3661841320acc0f2ad93638a5[m
+Merge: ce6e3a6 c32db31
+Author: Shyam K <112309864+Shyam2626@users.noreply.github.com>
+Date:   Thu Mar 13 12:42:41 2025 +0530
+
+    Merge pull request #2 from Shyam2626/main
+    
+    second
+
+[33mcommit c32db310c088aae3c1ae6e5ba20614d1c0f765f5[m
+Author: shyam k <shyam.kamalakannan@superops.com>
+Date:   Thu Mar 13 12:37:13 2025 +0530
+
+    second
+
+[33mcommit ce6e3a69c02ae2065063932050630ad3704d7385[m
+Merge: bc7cb25 1d36c69
+Author: Prajwal <111170192+paarziwal@users.noreply.github.com>
+Date:   Thu Mar 13 12:34:30 2025 +0530
+
+    Merge pull request #1 from Shyam2626/main
+    
+    first commit
+
+[33mcommit 1d36c6950713c0dd31c6bdd3ea72f6c7dfc5cd01[m
+Author: shyam k <shyam.kamalakannan@superops.com>
+Date:   Thu Mar 13 12:31:02 2025 +0530
+
+    first commit
+
+[33mcommit bc7cb256c899c18fd2636a95826cd42afa77b899[m
+Author: prajwal <prajwal.pandi@superops.com>
+Date:   Thu Mar 13 12:17:35 2025 +0530
+
+    initial commit
+
+[33mcommit 3567e5fe525d306ec81047de1363d4853e28533a[m
+Author: Prajwal <111170192+paarziwal@users.noreply.github.com>
+Date:   Thu Mar 13 12:10:00 2025 +0530
+
+    Initial commit
